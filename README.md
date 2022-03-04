@@ -1,4 +1,4 @@
-## Olá! Eu sou Nathalia Miranda! 👋
+## Olá! Eu sou a Nathalia Miranda! 👋
 
 - 🔭 Vejo na tecnologia, juntamente com a colaboração, uma grande capacidade de solucionar problemas, criar inovações, quebrar barreiras no mundo e no mercado de trabalho.
 - 🌱 Estudo na Trybe desenvolvimento software web, utilizando tecnologias Front-End e Back-End. 
