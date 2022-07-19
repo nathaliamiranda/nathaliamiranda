@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Nathalia Miranda! 👋
 
-- 🔭 Vejo na tecnologia, juntamente com a colaboração, uma grande capacidade de solucionar problemas, criar inovações, quebrar barreiras no mundo e no mercado de trabalho.
+- 🔭 Vejo na tecnologia, juntamente com a colaboração, uma grande capacidade de solucionar problemas, criar inovações, quebrar barreiras no mundo e no mercado de trabalho!
 - 🌱 Estudo na Trybe desenvolvimento software web, utilizando tecnologias Front-End e Back-End. 
-- 🌱 Estudando atualmente banco de dados, Node.js e Typescript.
+- 🌱 Estudando atualmente banco de dados, Node.js, Java e Python.
 
 <div align="center">
   <a href="https://github.com/nathaliamiranda">
