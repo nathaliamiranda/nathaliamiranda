@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Nathalia Miranda! 👋
 
 - 🔭 Vejo na tecnologia uma grande capacidade de solucionar problemas, criar inovações, quebrar barreiras no mundo e no mercado de trabalho!
-- 🌱 Estudo na Trybe desenvolvimento software web, utilizando tecnologias Front-End e Back-End. 
+- 🌱 Sou formada em desenvolvimento software web na Trybe! 
 - 🌱 Estudando atualmente AWS e Python.
 
 <div align="center">
