@@ -2,7 +2,7 @@
 
 - 🔭 Vejo na tecnologia uma grande capacidade de solucionar problemas, criar inovações, quebrar barreiras no mundo e no mercado de trabalho!
 - 🌱 Estudo na Trybe desenvolvimento software web, utilizando tecnologias Front-End e Back-End. 
-- 🌱 Estudando atualmente banco de dados, Node.js, Java e Python.
+- 🌱 Estudando atualmente AWS e Python.
 
 <div align="center">
   <a href="https://github.com/nathaliamiranda">
