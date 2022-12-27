@@ -1,4 +1,4 @@
-## Olá! Eu sou a Nathalia Miranda! 👋
+## Olá! Me chamo Nathalia! 👋
 
 - 🔭 Vejo na tecnologia uma grande capacidade de solucionar problemas, criar inovações, quebrar barreiras no mundo e no mercado de trabalho!
 - 🌱 Sou formada em desenvolvimento software web na Trybe! 
